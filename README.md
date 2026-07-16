@@ -39,8 +39,6 @@ Employee attrition is a costly problem for any organization — lost productivit
 ## 🖼️ Dashboard Preview
 ![Dashboard Screenshot](dashboard_screenshot.png)
 
-*(Add your dashboard screenshot PNG to this repo with this exact filename, or update the path above to match your file name)*
-
 ## 📂 Files in this Repo
 - `HR_Attrition_Dashboard.xlsx` — full interactive Excel dashboard
 - `dashboard_screenshot.png` — static preview image
@@ -52,4 +50,4 @@ Employee attrition is a costly problem for any organization — lost productivit
 3. Use the slicers at the top to filter by Department, Gender, OverTime, or Job Role — all charts update live
 
 ## 👤 About
-Built by [Your Name] as part of a data analytics portfolio, focused on Excel, Power Query, Power Pivot, and DAX.
+Built by **Gulshan Mehra** as part of a data analytics portfolio, focused on Excel, Power Query, Power Pivot, and DAX.
